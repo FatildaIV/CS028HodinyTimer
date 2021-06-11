@@ -1,0 +1,10 @@
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\bin\Debug\CS028HodinyTimer.exe.config
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\bin\Debug\CS028HodinyTimer.exe
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\bin\Debug\CS028HodinyTimer.pdb
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.csprojAssemblyReference.cache
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.HodinyTimerForm.resources
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.Properties.Resources.resources
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.csproj.GenerateResource.cache
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.csproj.CoreCompileInputs.cache
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.exe
+C:\Users\21voj\source\repos\CS028HodinyTimer\CS028HodinyTimer\obj\Debug\CS028HodinyTimer.pdb
